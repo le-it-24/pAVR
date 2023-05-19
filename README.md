@@ -3,7 +3,7 @@ Generic embedded firmware application for running low cost Microchip AVR microco
 
 
 # pAVR Application Objectives
-* Ability to run a parallel AVR processor configuration capable of running Debian linux.
+* Test performance of parallel AVR processor configuration running TBD 8-bit operating system.
 
 # pAVR Application Installation Instructions
 TBD
